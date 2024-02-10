@@ -58,11 +58,4 @@ test_case_5 = recommend_price(8, 13, 2025, 250, 0.25, 0.4)
 print(f'Test Case 5: ${test_case_5}')
 
 ```
-
-## Let's connect
-
-We can connect on LinkedIn:
-
-- Aadarsh Tiwari: [LinkedIn Profile](https://www.linkedin.com/in/aadarshtiwari)
-
   # Happy coding!
